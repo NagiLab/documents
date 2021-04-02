@@ -19,4 +19,4 @@
 
 # 改訂履歴
 * 2021年4月1日 制定
-* 改訂についてはリポジトリ履歴で閲覧可能：
+* 改訂についてはリポジトリ履歴で閲覧可能：https://github.com/StellarCapital/documents/commits/main/salesimp.md
